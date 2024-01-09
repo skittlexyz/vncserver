@@ -5,5 +5,5 @@ must be root to use it
 install:
 ```bash
 git clone https://github.com/skittlexyz/vncserver/
-chmod +x install.sh && chmod +x start.sh && chmod +x stop.sh
+cd vncserver ; chmod +x install.sh && chmod +x start.sh && chmod +x stop.sh
 ```

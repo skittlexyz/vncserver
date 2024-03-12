@@ -7,3 +7,4 @@ install:
 git clone https://github.com/skittlexyz/vncserver/
 cd vncserver ; chmod +x install.sh && chmod +x start.sh && chmod +x stop.sh
 ```
+
